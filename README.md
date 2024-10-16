@@ -1,6 +1,10 @@
 # POO-4
 
 ### membuat class person
+
+![code class person](screenshot/Person(1).png)
+![code class person](screenshot/Person(2).png)
+
 ```java
 public class Person {
     // Atribut dengan access modifier private
@@ -47,6 +51,9 @@ public class Person {
 ```
 
 ### membuat class main
+
+![code class main](screenshot/Main.png)
+
 ```java
 public class Main {
     public static void main(String[] args) {
